@@ -3,7 +3,7 @@
  </div>
 <h2 align="left">Hi👋, I am Shaurya Thapliyal aka <i>( larrikin-coder )</i></h2>
 <h3>🙋‍ <i>I : The story of my life</i> </h3>
-a "pro"grammer 🧑‍ hailing from India the land of Quirky Coders<br>
+a "pro"grammer 🧑‍ hailing from India the land of Quirky Coders,<br>
 full-stack developer by birth 👶<br>
 gifted with the powers of <i><b> Python</b> </i> <span><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20" /></span><br>
 with many tools in my arsenal,<br> 
