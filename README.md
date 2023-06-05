@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/AKjT5kDZMK4wsPXJPk/giphy.gif" width="250"/>
+  <img src="https://media.giphy.com/media/yiehOhvKfUZdS/giphy.gif" width="250"/>
  </div>
 <h2 align="center">Hi👋, I am Shaurya Thapliyal aka <i>( larrikin-coder )</i></h2>
 <h3>🙋‍ <i>I : The story of my life</i> </h3>
@@ -24,7 +24,6 @@ i am the <i><B>Shaurya Thapliyal.</B></i><br>
    <img width="30" height="30" src="https://img.icons8.com/ios-filled/50/ff0000/message-squared.png" alt="message-squared"/>
   </a>
  </div>
- 
   
           
 
