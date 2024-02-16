@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/yiehOhvKfUZdS/giphy.gif" width="250"/>
  </div>
 <h2 align="center">Hi👋, I am Shaurya Thapliyal aka <i>( larrikin-coder )</i></h2>
-<h3>🙋‍ <i>I : The story of my life</i> </h3>
+A Tech Enthusiast who uses bad jokes when feeling socially awkward
 <h3><i> Wanna grab a Coffee? :coffee:</i></h3>
 <div align="left">
   <a href="https://www.instagram.com/_shaurya.thapliyal/"><img width="30" height="30" src="https://img.icons8.com/ios-filled/50/FA5252/instagram-new--v1.png" alt="instagram-new--v1"/>
