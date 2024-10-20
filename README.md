@@ -14,5 +14,4 @@
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=larrikin-coder&show_icons=true&locale=en" alt="larrikin-coder" />
 </p>
-<img src="https://giphy.com/embed/2tQrldaLBrEKjtdw6U"/>
-<div class="tenor-gif-embed" data-postid="2974003410023737333" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/my-hero-academia-boku-no-hero-academia-anime-mha-bnha-gif-2974003410023737333">My Hero Academia Boku No Hero Academia Sticker</a>from <a href="https://tenor.com/search/my+hero+academia-stickers">My Hero Academia Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img src="https://tenor.com/en-GB/view/my-hero-academia-boku-no-hero-academia-anime-mha-bnha-gif-2974003410023737333" alt="larrikin-coder"/>
