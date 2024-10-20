@@ -14,4 +14,4 @@
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=larrikin-coder&show_icons=true&locale=en" alt="larrikin-coder" />
 </p>
-<img src="https://tenor.com/en-GB/view/my-hero-academia-boku-no-hero-academia-anime-mha-bnha-gif-2974003410023737333" alt="larrikin-coder"/>
+<img src="https://tenor.com/en-GB/view/my-hero-academia-boku-no-hero-academia-anime-mha-bnha-gif-2974003410023737333.gif" alt="larrikin-coder"/>
