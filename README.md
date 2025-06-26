@@ -132,5 +132,6 @@
 <!-- <img src="https://tenor.com/en-GB/view/alarm-gif-9878940352483067214.gif" height="200px" width="200px"/> -->
 
 ---
-[![](https://visitcount.itsvg.in/api?id=larrikin-coder&icon=0&color=0)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=larrikin-coder&label=Profile%20views&color=0e75b6&style=flat)
+
 
