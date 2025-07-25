@@ -121,17 +121,19 @@
   </div>
 </div>
 
-
 # 📊 GitHub Stats:
-<div style="display: flex;">
-  <img src="https://github-readme-stats.vercel.app/api?username=larrikin-coder&theme=dark&hide_border=false&include_all_commits=false&count_private=false" style="padding-right: 20px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=larrikin-coder&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" style="padding-left: 20px;" height="197px" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=larrikin-coder&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=larrikin-coder&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="180em" />
 </div>
 
-<img src="https://tenor.com/en-GB/view/alarm-gif-9878940352483067214.gif" height="200px" width="200px"/>
-<!-- <img src="https://tenor.com/en-GB/view/alarm-gif-9878940352483067214.gif" height="200px" width="200px"/> -->
+<div align="center">
+  <img src="https://tenor.com/en-GB/view/alarm-gif-9878940352483067214.gif" height="200px" width="200px"/>
+</div>
 
 ---
+<div align="center">
+  
 ![Profile Views](https://komarev.com/ghpvc/?username=larrikin-coder&label=Profile%20views&color=0e75b6&style=flat)
 
-
+</div>
