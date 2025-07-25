@@ -84,7 +84,7 @@
 <div align="center">
   <img src="https://tenor.com/en-GB/view/alarm-gif-9878940352483067214.gif" height="200px" width="200px"/>
 </div>
-[![@larrikin-coder's Holopin board](https://holopin.io/api/user/board?user=larrikin-coder)](https://holopin.io/@larrikin-coder)
+[![@larrikin-coder's Holopin board](https://holopin.me/larrikin-coder)](https://holopin.io/@larrikin-coder)
 
 ---
 <div align="center">
