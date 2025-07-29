@@ -85,7 +85,7 @@
   <img src="https://tenor.com/en-GB/view/alarm-gif-9878940352483067214.gif" height="200px" width="200px"/>
 </div>
 <!-- [![@larrikin-coder's Holopin board](https://holopin.me/larrikin-coder)](https://holopin.io/@larrikin-coder) -->
-
+[![An image of @larrikincoder's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/larrikincoder)](https://holopin.io/@larrikincoder)
 ---
 <div align="center">
   
