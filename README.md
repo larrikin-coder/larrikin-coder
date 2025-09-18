@@ -80,6 +80,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=larrikin-coder&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="180em" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=larrikin-coder&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="180em" />
 </div>
+<div align="center">
+  <img src="[https://github-readme-stats.vercel.app](https://github-readme-stats-93y262vls-larrikin-coders-projects.vercel.app)/api?username=larrikin-coder&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=larrikin-coder&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="180em" />
+</div>
 
 <div align="center">
   <img src="https://tenor.com/en-GB/view/alarm-gif-9878940352483067214.gif" height="200px" width="200px"/>
