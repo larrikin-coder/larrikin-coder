@@ -1,6 +1,6 @@
 <h1 align="center">Yahallo 👋, I'm Shaurya</h1>
-<h3 align="center">Developer in between Web Dev and AI Models.</h3>
-
+<h3 align="center">Teaching machines to think while questioning if I do the same.</h3>
+<h4 align="center"> Backend dev. AI enthusiast. Possibly a model myself.</h4>
 <h3 align="left">Connect with me:</h3>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shaurya-thapliyal)
